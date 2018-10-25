@@ -33,4 +33,4 @@ To know about real india hero click [Bhagat Singh](Bhagat_Singh/bhagat_singh.md)
 
 Check out [Alia Bhatt](https://www.instagram.com/aliaabhatt/?hl=en)
 
-Click [Here](king/king.md) to know more about Indian Cinema "Bollywood".
+Click [Here](Indian Cinema/Cinema of India.md) to know more about Indian Cinema "Bollywood".
